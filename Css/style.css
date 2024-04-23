@@ -302,8 +302,3 @@ textarea{
       flex-direction: column;
    }
 }
-h3 + div{
-   font-weight: bold;
-   text-transform: uppercase;
-   font-style: italic;
-}
